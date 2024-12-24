@@ -2,7 +2,7 @@
 # Hydro One Risk Management Project
 
 ## **Overview**
-This project demonstrates a comprehensive risk management analysis inspired by Hydro One’s enterprise strategies. The project includes data analysis, risk prioritization, and mitigation strategy design using Python. It provides visual insights through graphs that help identify high-impact risks, optimize resource allocation, and plan mitigation strategies effectively. All graphs were generated using Python's visualization libraries.
+This project demonstrates a comprehensive risk management analysis inspired by Hydro One’s enterprise strategies. The project includes data analysis, risk prioritization, and mitigation strategy design using Python, Open Ai's ChatGPT, and Excel. It provides visual insights through graphs that help identify high-impact risks, optimize resource allocation, and plan mitigation strategies effectively. All graphs were generated using Python's visualization libraries.
 
 ---
 
@@ -16,7 +16,7 @@ This project demonstrates a comprehensive risk management analysis inspired by H
 ---
 
 ## **Technologies Used**
-- **Programming Language**: Python
+- **Programming Language**: Python, Excel
 - **Libraries**:
   - Pandas: For data manipulation and analysis.
   - Matplotlib: For creating static visualizations.
